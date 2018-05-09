@@ -2,7 +2,7 @@
   "name": "bitcore-wallet-client-safe",
   "description": "Client for bitcore-wallet-service-safe",
   "author": "Safecoin DEV TEAM",
-  "version": "1.0.3",
+  "version": "1.0.0b",
   "license": "MIT",
   "keywords": [
     "bitcoin",
