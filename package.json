@@ -17,7 +17,7 @@
   "engine": "node >= 8.0.0",
   "main": "index.js",
   "repository": {
-    "url": "git@github.com:snowgem/bitcore-wallet-client-safe.git",
+    "url": "git@github.com:OleksandrBlack/bitcore-wallet-client-safe.git",
     "type": "git"
   },
   "bugs": {
