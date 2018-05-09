@@ -2,7 +2,7 @@
   "name": "bitcore-wallet-client-safe",
   "description": "Client for bitcore-wallet-service-safe",
   "author": "Safecoin DEV TEAM",
-  "version": "1.0.0b",
+  "version": "1.0.0",
   "license": "MIT",
   "keywords": [
     "bitcoin",
@@ -36,7 +36,7 @@
     "superagent": "^3.4.1"
   },
   "devDependencies": {
-    "bitcore-wallet-service-safe": "https://github.com/OleksandrBlack/bitcore-wallet-service-safe.git",
+    "bitcore-wallet-service-safe": "git+https://github.com/OleksandrBlack/bitcore-wallet-service-safe.git",
     "browserify": "^13.1.0",
     "chai": "^1.9.1",
     "coveralls": "^2.11.2",
